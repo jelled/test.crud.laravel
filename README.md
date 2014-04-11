@@ -23,11 +23,11 @@ Add your database credentials to
 
     /app/config/database.php
 
-Setup the databases
+Setup the tables
 
     php artisan migrate
 
-Seed the databases
+Seed the tables
 
     php artisan db:seed
 
